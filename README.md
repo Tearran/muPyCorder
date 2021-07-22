@@ -1,24 +1,28 @@
-# µPyCorder 
+# µPyCorder
+
 Instrument Recorder. Utilizing [MicroPython](https://micropython.org/), sensors and an [ESP32/8266](https://www.espressif.com/) to create a simple envoromental scanner.  
 µPyCorder is Alpha is based on MicroPython [docs](https://docs.micropython.org/) and example scrips  
   
-*TODO
+* TODO
+  * HTML UI
+    * Wifi Managment UI
+
+  * GPOI
+    * GPIO Managment UI
+
   * Sensors
-    * BMP180
     * DHT11
     * KY_307
     * Piezo or buzzer motor
     * PhotoCell
-  
+    * BMP180
+
 >  
->    print("Could not initialize the network connection.")  
+> print("µPyCorder is ALPHA softwere. Use at own risk!")  
 >  
 
-http://github.com - automatic!
+<http://github.com> - automatic!
 [GitHub](http://github.com)
 
-
-
-
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
+> "Failures are steps we must take make to achieve success"
+> -The Traveling Aspie
